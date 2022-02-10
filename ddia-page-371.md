@@ -20,5 +20,7 @@ They provide Key-Value API like get, put, delete, range-over-keys
 
 To find out which IP address you need to connect to in order to reach a particular service.
 
-###
+### Membership services
+
+A membership service determines which nodes are currently alive and live members of a cluster. We want Zookeeper to help adding/removing nodes from our configuration.
 
